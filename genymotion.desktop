@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Genymotion
+Exec=/opt/genymotion/genymotion
+Icon=/opt/genymotion/icons/icon.png
+Terminal=false
+Type=Application
+Categories=Development

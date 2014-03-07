@@ -1,4 +1,0 @@
-desktop
-=======
-
-Ubuntu desktop files
