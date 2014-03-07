@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Pycharm
+Name=PyCharm
 Exec=/opt/pycharm-community-3.0.2/bin/pycharm.sh
 Icon=/opt/pycharm-community-3.0.2/bin/pycharm.png
 Terminal=false
