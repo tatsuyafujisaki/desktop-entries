@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Chrome Incognito
-Exec=/usr/bin/google-chrome-stable --incognito --disable-translate --no-experiments --no-referrers --reset-variation-state
+Exec=/usr/bin/google-chrome-stable --incognito --disable-translate
 Icon=/usr/share/icons/hicolor/256x256/apps/google-chrome.png
 Terminal=false
 Type=Application
